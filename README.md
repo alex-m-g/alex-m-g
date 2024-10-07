@@ -4,18 +4,19 @@ I am Alexander M. Garcia, a Research Assistant I @ UTHealth Science Center - McG
 I am also a current graduate student @ UTHealth Science Center - McWilliams School of Biomedical Informatics. I have a passion in improving human health as well as improve the healthcare system.
 
 # Skills
-- Programming Laguanges: Python, R
-- Data Sciences: Pandas, NumPy
-- Databases: SQL, Microsoft Access
-- Tools: Git, Docker, VS Code
+- Laguanges: Python, R, SQL
+- Data Analysis & Visualization: Pandas, NumPy, SciPy, Matplotlib, Seaborn, ggplot2, Tableau
+- Machine Learning & Statistical Modeling: Scikit-learn, TensorFlow, PyTorch, SOLO
+- Big Data & Cloud Computing: PySpark, Docker
+- Database Management System: Microsoft SQL Serve, MySQL, SQLite, MongoDB
 
-## Education & Certifications
+## Education
 - B.S. Biotechnology, [University of Houston, Cullen College of Engineering]
 - M.Sc. Biomedical Informatics, [University of Texas Health Science Center, McWilliams School of Biomedical Informatics] (Spring 2026)
 
 ## Interests
 - Soccer
-- Medicine
+- Healthcare
 - Gym
 - Creatine & Pre-workout...
 - Data Science
